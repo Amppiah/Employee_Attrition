@@ -4,8 +4,8 @@ It consists of employee identification, their income, their age, departments amo
 The data is an HR complilation of employees who left the company and those who stayed . I created a 
 working sheet to be used for my data cleaning . 
 I checked for :
--duplicates
--Trimmed the education column to get rid of spaces after I changed the data from numbers to strings
+- duplicates
+- Trimmed the education column to get rid of spaces after I changed the data from numbers to strings
 - Converted the age columns into groups to aid in my visualisation .
 
 I then created another sheet for the pivot tables to help me visualize the data i wanted . I utilised 
